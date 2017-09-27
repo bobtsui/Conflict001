@@ -12,6 +12,7 @@ namespace conflictfirst.Controllers
         public ActionResult Index()
         {
             //OOXX123456
+            //master
             return View();
         }
     }
